@@ -9,7 +9,8 @@
   },
   "dependencies": {
     "contentful": "^10.12.7",
-    "contentful-management": "^11.27.6",
+    "contentful-management": "^11.28.0",
+    "dotenv": "^16.4.5",
     "next": "14.2.4",
     "react": "18.3.1",
     "react-dom": "18.3.1"

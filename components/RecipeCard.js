@@ -20,9 +20,7 @@ export default function RecipeCard({ recipe }) {
         </div>
         <div className="actions">
           <Link href={"/recipes/" + slug}>
-            {/* <a>Cook this</a>
-             */}
-             Cook this
+            Cook this
           </Link>
         </div>
       </div>
